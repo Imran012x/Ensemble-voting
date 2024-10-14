@@ -5,3 +5,5 @@ scikit-learn==0.24.1
 sklearn==0.0
 streamlit==0.77.0
 python3-distutils
+python3-pip 
+python3-setuptools
