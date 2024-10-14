@@ -1,7 +1,0 @@
-numpy
-pandas
-pyarrow==3.0.0
-matplotlib
-streamlit
-scikit-learn
-
